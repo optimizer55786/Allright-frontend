@@ -1,0 +1,12 @@
+{
+  "register-success": "Registration successfully!",
+  "login-success": "Login successfully!",
+  "update-profile-success": "Profile updated successfully!",
+  "resend-verification-success": "Confirmation email was resent to your email address",
+  "email-verification-success": "Email verified!",
+  "email-verification-error": "Unable to verify email",
+  "reset-password-success": "Password reset successfully. please login",
+  "invitation-accept": "Invitation accepted successfully",
+  "invitation-reject": "Invitation rejected successfully",
+  "update-email-success": "New verification email was sent to new email address"
+}
